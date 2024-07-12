@@ -1,0 +1,17 @@
+
+
+/*css style link */
+nav ul{
+    display: flex;
+    align-items:center;
+    text-align: justify;
+    margin: auto;
+}
+ nav ul li {
+       list-style-type: none;
+    margin: auto; 
+   padding: 20px;
+   .1 {
+    background-image: url(projects/back.png);
+   }
+}
